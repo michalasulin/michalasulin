@@ -3,78 +3,101 @@
 <h3 align="center">Software Engineer | Full Stack Developer | Israel 🇮🇱</h3>
 
 <p align="center">
-  <a href="mailto:m.software.dev1@gmail.com">📧 m.software.dev1@gmail.com</a> •
-  <a href="https://github.com/michalasulin">🐙 github.com/michalasulin</a>
+  📧 m.software.dev1@gmail.com &nbsp;|&nbsp; 📱 055-6722124
 </p>
 
 <br/>
 
 ## 🙋‍♀️ About Me
 
-QA-oriented Software Engineering graduate with hands-on experience building modern web applications using React, ASP.NET Core, Node.js, and SQL databases.
-
-Experienced in implementing automated testing infrastructure using Jest and React Testing Library (RTL), API validation using Postman and Swagger, and collaborating within agile development teams.
-
-Strong analytical and problem-solving skills with a passion for software quality, testing methodologies, debugging, and delivering reliable user experiences.
+Full Stack & Embedded Software Engineering graduate with experience in diverse projects.
+Logical and creative thinker, strong team player, and fast learner who adapts quickly to new environments and existing systems.
 
 <br/>
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 <br/>
 
 ## 💼 Work Experience
 
-### 2025 | Full-Stack Developer Intern — iAngels
+### 2025 | Full-Stack Developer Intern — iAngels (Venture Capital Fund)
 
-Tech: React, Jest, RTL, Postman, Swagger, Git
+`React` `Jest` `RTL` `Git` `Postman` `Swagger`
 
 - Developed responsive React components for handling and displaying sensitive data in a mobile-adapted web system
-- Implemented automated testing infrastructure using Jest and React Testing Library (RTL) for complex frontend logic
-- Improved application reliability and reduced production issues through testing and code optimization
-- Performed debugging, issue analysis, and frontend/backend validation within a production-like environment
-- Used Postman and Swagger for API validation and endpoint testing
+- Built and implemented automated testing infrastructure (Jest, RTL) for complex frontend logic — improved reliability and reduced production bugs
+- Refactored and optimized existing code, leading to ~30% performance improvement and preparing the system for app packaging
+- Managed Git workflows including versioning, code reviews, and maintaining high code standards
+- Collaborated with development teams and clients: gathered requirements, translated them into technical specs, and implemented using AI-assisted workflows
+
+<br/>
+
+## 🚀 Featured Projects
+
+#### 💱 Currency Exchange Monitoring System — Angular 19 + ASP.NET Core
+Interactive real-time currency data system using external APIs and dynamic charts.
+
+- Integration with external API and display in a modern SPA
+- Interactive charts using D3.js and ngx-charts
+- Advanced HTTP management including CORS and Timeout handling
+- Reactive Forms, RxJS, and Swagger for endpoint testing
+
+`Angular` `ASP.NET Core` `D3.js` `RxJS` `Swagger`
+
+---
+
+#### 🛒 Order Management Platform — React + Redux + Node.js
+Full-Stack order management system with modern UI and role-based access control.
+
+- State management with Redux Toolkit (Thunk)
+- Role-based permissions (Admin / Customer)
+- Stable server calls and server-side data management with Node.js
+
+`React` `Redux` `Node.js`
+
+---
+
+#### 🔧 Queue Management API — ASP.NET Core Web API
+RESTful API for queue management with database integration and clean architecture.
+
+- RESTful API with EF Core and AutoMapper
+- Clean Architecture and Dependency Injection
+- DTOs and Unit Testing for maintainability and stability
+
+`ASP.NET Core` `EF Core` `SQL Server`
 
 <br/>
 
 ## 🎓 Education
 
 **2023–2025 — Software Engineering Practical Engineer**
-Mahat – Zichron Yaakov College • High GPA
+Mahat – Zichron Yaakov College | High GPA
 
 **KamaTech Ultra Code Program Graduate**
 
-<br/>
-
-## 🚀 Featured Projects
-
-#### 🔧 Queue Management API — ASP.NET Core Web API
-RESTful API with layered architecture and database integration, Swagger-based endpoint testing, DTOs, Dependency Injection, and Unit Testing.
-`ASP.NET Core` • `SQL Server` • `Swagger`
-
-#### 💱 Currency Exchange Monitoring System — Angular + ASP.NET Core
-Real-time web application consuming external APIs and displaying dynamic currency data with Reactive Forms and RxJS.
-`Angular` • `ASP.NET Core` • `RxJS` • `Swagger`
-
-#### 🛒 Order Management Platform — React + Redux + Node.js
-Full-Stack order management system with role-based permissions, Redux Toolkit state management, and backend API integration.
-`React` • `Redux` • `Node.js`
+**2019–2023 — High School + Sald Exams (Bagrut equivalent)**
+Accounting Certification Level 1+2
 
 <br/>
 
