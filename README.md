@@ -55,7 +55,16 @@ Logical and creative thinker, strong team player, and fast learner who adapts qu
 
 ## 🚀 Featured Projects
 
-#### 💱 Currency Exchange Monitoring System — Angular 19 + ASP.NET Core
+#### 💰 [Event Expenses App](https://event-expenses-app.vercel.app/) — React + Node.js
+🌐 Live: https://event-expenses-app.vercel.app/
+
+A modern multi-user expense management platform enabling participants to create shared events, split costs intelligently, and manage group finances.
+
+`React` `Node.js` `MongoDB` `Vercel`
+
+---
+
+#### 💱 [Currency Exchange Monitoring System](https://github.com/michalasulin/event-expenses-api) — Angular 19 + ASP.NET Core
 Interactive real-time currency data system using external APIs and dynamic charts.
 
 - Integration with external API and display in a modern SPA
@@ -67,7 +76,7 @@ Interactive real-time currency data system using external APIs and dynamic chart
 
 ---
 
-#### 🛒 Order Management Platform — React + Redux + Node.js
+#### 🛒 [Order Management Platform](https://github.com/michalasulin) — React + Redux + Node.js
 Full-Stack order management system with modern UI and role-based access control.
 
 - State management with Redux Toolkit (Thunk)
@@ -78,7 +87,7 @@ Full-Stack order management system with modern UI and role-based access control.
 
 ---
 
-#### 🔧 Queue Management API — ASP.NET Core Web API
+#### 🔧 [Queue Management API](https://github.com/michalasulin) — ASP.NET Core Web API
 RESTful API for queue management with database integration and clean architecture.
 
 - RESTful API with EF Core and AutoMapper
@@ -96,11 +105,8 @@ Mahat – Zichron Yaakov College | High GPA
 
 **KamaTech Ultra Code Program Graduate**
 
-**2019–2023 — High School + Sald Exams (Bagrut equivalent)**
-Accounting Certification Level 1+2
-
 <br/>
 
 ## 📊 GitHub Stats
 
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalasulin&show_icons=true&theme=tokyonight&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=michalasulin&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
