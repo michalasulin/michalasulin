@@ -6,21 +6,6 @@
 
 ## 🙋‍♀️ About Me
 
-- 💻 Passionate about building web applications
-- 🌱 Always learning and growing
-- 📫 Reach me at: **michalasulin@github**
-
-<br/>
-
-## 🛠️ Technologies & Tools
-<h1 align="center">Hi, I'm Michal Cohen 👋</h1>
-
-<h3 align="center">Full Stack Developer | Israel 🇮🇱</h3>
-
-<br/>
-
-## 🙋‍♀️ About Me
-
 - 💻 Full Stack Developer with hands-on experience in modern web technologies
 - 🌱 Always learning and growing
 - 📫 Reach me at: **michalasulin@github**
@@ -55,9 +40,4 @@
 
 ## 📊 GitHub Stats
 
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalasulin&show_icons=true&theme=tokyonight)
-<br/>
-
-## 📊 GitHub Stats
-
-![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalasulin&show_icons=true&theme=tokyonight)
+![Michal's GitHub stats](https://github-readme-stats.vercel.app/api?username=michalasulin&show_icons=true&theme=tokyonight&count_private=true)
